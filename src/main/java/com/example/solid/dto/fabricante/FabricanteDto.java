@@ -1,9 +1,9 @@
-package com.example.solid.dto;
+package com.example.solid.dto.fabricante;
 
 import lombok.Data;
 
 @Data
-public class ProveedorDto {
+public class FabricanteDto {
     private long id;
     private String nombre;
 }

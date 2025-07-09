@@ -1,4 +1,4 @@
-package com.example.solid.dto;
+package com.example.solid.dto.proveedor;
 
 import lombok.Data;
 import org.antlr.v4.runtime.misc.NotNull;

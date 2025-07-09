@@ -1,7 +1,7 @@
 package com.example.solid.mapper;
 
-import com.example.solid.dto.ProveedorCreateDto;
-import com.example.solid.dto.ProveedorDto;
+import com.example.solid.dto.proveedor.ProveedorCreateDto;
+import com.example.solid.dto.proveedor.ProveedorDto;
 import com.example.solid.entity.Proveedor;
 import org.springframework.stereotype.Component;
 
